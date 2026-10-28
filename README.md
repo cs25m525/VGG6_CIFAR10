@@ -1,0 +1,2 @@
+# VGG6_CIFAR10
+CS25M525 Deep Learning Assignment 01 on VGG6_CIFAR10
